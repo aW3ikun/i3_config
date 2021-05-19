@@ -1,6 +1,6 @@
 # i3wm—themes
 
-![image-20210520013719032](.\screenshot.png)
+![image-20210520013719032](screenshot.png)
 
 ## What you might need
 
